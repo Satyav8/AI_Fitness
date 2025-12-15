@@ -137,7 +137,7 @@ ai_fitness_coach/
 ## 🚀 Getting Started (Local Setup)
 
 ```bash
-git clone https://github.com/<your-username>/ai-fitness-coach.git
+git clone https://github.com/https://github.com/Satyav8/AI_Fitness.git
 cd ai-fitness-coach
 pip install -r requirements.txt
 streamlit run app.py
